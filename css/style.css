@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://pic.baike.soso.com/p/20120918/20120918205516-80285821.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.top-nav-collapse, .page-footer {
+    background-color: #36a6f1 !important;
+}
